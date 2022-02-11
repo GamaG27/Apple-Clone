@@ -3,6 +3,13 @@ body {
   padding: 0px;
   box-sizing: border-box;
 }
+
+/*---------Top-nav---------*/
+
+.top-nav {
+  height: 60px;
+}
+
 .top-nav ul {
   list-style-type: none;
   text-align: center;
@@ -15,3 +22,27 @@ body {
   display: inline-flex;
   padding: 8px;
 }
+
+/*---------Shop-Online---------*/
+
+.section-content {
+  display: inline-block;
+}
+
+.Shop-online {
+  display: inline-block;
+  text-align: center;
+}
+
+.Shop-online p {
+  background-color: #f5f5f7;
+  margin: 0px;
+  padding: 10px;
+  letter-spacing: -0.022em;
+}
+
+.Shop-online a {
+  text-decoration: solid;
+}
+
+/*---------Section-1---------*/
