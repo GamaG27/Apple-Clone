@@ -3,9 +3,15 @@ body {
   padding: 0px;
   box-sizing: border-box;
 }
-ul {
+.top-nav ul {
   list-style-type: none;
+  text-align: center;
   margin: 0px;
   padding: 0px;
   background-color: rgb(38, 38, 38);
+}
+
+.top-nav li {
+  display: inline-flex;
+  padding: 8px;
 }
