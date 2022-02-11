@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #424245;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+}
+
+img {
+  display: inline-block;
+  padding: 10px;
+  position: relative;
+}
