@@ -2,6 +2,7 @@ body {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 /*---------Top-nav---------*/
@@ -15,18 +16,19 @@ body {
   text-align: center;
   margin: 0px;
   padding: 0px;
-  background-color: rgb(38, 38, 38);
+  background-color: #262626;
 }
 
-.top-nav li {
-  display: inline-flex;
+li.top-nav {
   padding: 8px;
+  display: ;
+  justify-content: ;
 }
 
 /*---------Shop-Online---------*/
 
 .section-content {
-  width: inherit;
+  width: 100%;
 }
 
 .Shop-online {
@@ -44,3 +46,21 @@ body {
 }
 
 /*---------Section-1---------*/
+
+.section-1 img {
+  width: 100%;
+  height: auto;
+}
+/*---------Section-2---------*/
+
+.section-2 img {
+  width: 100%;
+  height: auto;
+}
+/*---------Section-3---------*/
+
+.section-3 img {
+  width: 100%;
+  height: auto;
+}
+/*---------@Media---------*/
